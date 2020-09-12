@@ -1,2 +1,2 @@
 # lexclass
-Lex Hub Training Class
+Joshua Alex Node Express API  created by Lex Hub Training Class
